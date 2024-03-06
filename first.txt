@@ -1,7 +1,4 @@
 first
-<<<<<<< HEAD
 
 online AM 00:14
-=======
 online PM 00:12
->>>>>>> master
